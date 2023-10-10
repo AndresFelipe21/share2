@@ -1,0 +1,105 @@
+#pagina {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.principal {
+    width: 700px;
+    height: 830px;
+    border: 2px solid;
+    margin: 0 auto;
+    background-image: url(../imagenes/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.funny {
+    width: 600px;
+    height: 550px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px auto 0 auto;
+    background-color: white;
+}
+
+.funny a {
+    text-decoration: none;
+    color: inherit;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.primero {
+    width: 600px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    background-color: white;
+}
+
+.primero a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.primero h1 {
+    margin-top: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.segundo {
+    width: 600px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    background-color: white;
+}
+
+.segundo a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.segundo h1 {
+    margin-top: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tercero {
+    width: 600px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    background-color: white;
+}
+
+.tercero a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.tercero h1 {
+    margin-top: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cuarto {
+    width: 600px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    background-color: white;
+}
+
+.cuarto a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.cuarto h1 {
+    margin-top: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
